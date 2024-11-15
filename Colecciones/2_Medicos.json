@@ -1,0 +1,13 @@
+{
+    "_id": "ObjectId",
+    "nombre": "string",
+    "especialidad": "string",
+    "email": "string",
+    "telefono": "string",
+    "horario": {
+        "dias": ["array de string"],  // Ej: ["lunes", "miércoles", "viernes"]
+        "hora_inicio": "time",
+        "hora_fin": "time"
+    },
+    "consultorio": "string"
+}

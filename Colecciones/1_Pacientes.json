@@ -1,0 +1,15 @@
+{
+    "_id": "ObjectId",
+    "nombre": "string",
+    "email": "string",
+    "telefono": "string",
+    "fecha_registro": "date",
+    "fecha_nacimiento": "date",
+    "direccion": {
+        "calle": "string",
+        "ciudad": "string",
+        "estado": "string",
+        "codigo_postal": "string"
+    },
+    "historial_medico": "string"
+}

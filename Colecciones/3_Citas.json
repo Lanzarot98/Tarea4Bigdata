@@ -1,0 +1,9 @@
+{
+    "_id": "ObjectId",
+    "paciente_id": "ObjectId",  // Relación con el paciente que reservó la cita
+    "medico_id": "ObjectId",  // Relación con el médico que atenderá la cita
+    "fecha": "date",
+    "hora": "time",
+    "motivo": "string",
+    "estado": "string"  // Ej: "pendiente", "confirmada", "completada", "cancelada"
+}
