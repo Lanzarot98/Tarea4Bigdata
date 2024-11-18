@@ -1,3 +1,10 @@
 ## Tarea 4 Bigdata
 
-Implementación en MongoDB
+Implementación en MongoDB e implementación en Hbase
+
+Estudiantes:
+- LUIS MIGUEL ROJAS FRANCO
+- VICTOR HUGO CONTO CARVAJAL
+- JHON WILLIAM ROJAS SILVA
+- MARIANA RUIZ GIRALDO
+- EDNUARTH ADRIAN VELASCO PINO
